@@ -1,0 +1,31 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,0,1020,800,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=touchstone_qucs_2.dat>
+  <DataDisplay=touchstone_qucs_2.sch>
+  <OpenDisplay=1>
+  <Script=touchstone_qucs_2.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 510 446 370 246 3 #c0c0c0 1 00 1 0 5e+07 3e+08 1 0.470262 0.1 1 1 -1 0.5 1 315 0 225 "" "" "">
+	<"S[1,1]" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 70 248 341 208 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"S[2,1]" #0000ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
